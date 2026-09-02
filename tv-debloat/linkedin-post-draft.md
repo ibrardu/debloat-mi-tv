@@ -15,6 +15,13 @@ What actually happened:
   launcher" option in Settings, so it went through ADB's Role Manager instead
 → Verified everything survived a full reboot
 
+The RAM numbers barely moved (Android reclaims idle memory dynamically, so
+that was expected). But the TV itself feels completely different — it's
+running smoother now than it did the day I bought it. No more ad services
+polling in the background, no more recommendation rows re-rendering on every
+home screen visit, half the animation time everywhere. Numbers on a
+dashboard don't capture that; using the remote every day does.
+
 Prompt adapted from Mert Çobanov's excellent guide: https://tv.cobanov.dev/
 
 Full before/after, the complete log (including the regression + fix), and a
