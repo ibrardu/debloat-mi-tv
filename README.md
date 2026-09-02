@@ -24,6 +24,13 @@ as actually run is in [tv-debloat/ORIGINAL-PROMPT.md](tv-debloat/ORIGINAL-PROMPT
 | Used | 1,296,260K | 1,274,126K |
 | Disabled packages | 0 | 32 |
 
+The RAM delta is small — Android reclaims idle memory dynamically, so a
+before/after snapshot was never going to show a dramatic number. The real
+difference is in day-to-day use: with 32 fewer background services (ad
+polling, recommendation rendering, telemetry) and half the animation
+duration everywhere, the TV now feels noticeably smoother than it did out of
+the box.
+
 ## What was done
 
 1. **Measured first** — captured `dumpsys meminfo` and `pm list packages`
