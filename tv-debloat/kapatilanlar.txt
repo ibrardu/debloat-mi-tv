@@ -1,0 +1,35 @@
+# Disabled packages log (pm disable-user --user 0)
+# Format: package_name  batch  date
+
+fusion.android.tv.demo                         batch1  2026-09-02
+mediatek.factorymenu.ui                        batch1  2026-09-02
+com.android.dreams.basic                       batch1  2026-09-02
+com.mitv.dream                                 batch1  2026-09-02
+com.mstar.android.tv.disclaimercustomization   batch1  2026-09-02
+com.mediatek.wwtv.setupwizard                  batch1  2026-09-02
+com.xiaomi.mitv.manualhelp                     batch1  2026-09-02
+com.xiaomo.tv.milegal                          batch1  2026-09-02
+com.xiaomi.statistic                           batch1  2026-09-02
+com.google.android.feedback                    batch2  2026-09-02
+com.google.android.onetimeinitializer          batch2  2026-09-02
+com.google.android.tvrecommendations           batch2  2026-09-02
+com.google.android.tv.frameworkpackagestubs    batch2  2026-09-02
+com.google.android.backdrop                    batch2  2026-09-02
+com.google.android.marvin.talkback             batch2  2026-09-02
+com.google.android.partnersetup                batch2  2026-09-02
+com.google.android.boot.appsplashscreen        batch2  2026-09-02
+com.mitv.tvhome.michannel                      batch3  2026-09-02
+com.mitv.tvhome.mitvplus                       batch3  2026-09-02
+com.google.android.tvlauncher                  launcher-swap  2026-09-02
+com.xiaomi.mimusic2                            batch4  2026-09-02
+com.xiaomi.amazon.alexa                        batch4  2026-09-02
+com.google.android.play.games                  batch5  2026-09-02
+com.mitv.tvlock                                batch5  2026-09-02
+com.android.providers.calendar                 batch5  2026-09-02
+com.android.providers.contacts                 batch5  2026-09-02
+com.android.providers.contacts.auto_generated_rro_product__  batch5  2026-09-02
+com.android.printspooler                       batch5  2026-09-02
+com.android.htmlviewer                         batch5  2026-09-02
+com.android.soundpicker                        batch5  2026-09-02
+com.android.statementservice                   batch5  2026-09-02
+com.android.wallpaperbackup                    batch5  2026-09-02
